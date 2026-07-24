@@ -1,6 +1,6 @@
 # 💫 About Me:  
 I’m looking to collaborate on Open-source AI projects, specifically those involving RAG (Retrieval-Augmented Generation) pipelines and LangGraph.<br><br>🤝 I’m looking for help with Advanced cloud architecture and scaling distributed systems on Google Cloud Platform.<br><br>🌱 I’m currently learning Generative AI orchestration and fine-tuning LLMs for specialized technical documentation.<br><br>💬 Ask me about Full-stack web development, PostgreSQL database design, or how I grew a technical YouTube community to 2,500+ subscribers.<br><br>⚡ Fun fact I can simplify complex VTU Engineering concepts so well that I’ve helped thousands of students pass their exams through my YouTube channel!<br><br> Full-Stack Developer & AI Enthusiast | B.E. Computer Science Student | Passionate about building scalable real-time applications and AI-driven solutions.    
-   
+      
 ## 🌐 Socials:                       
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avaish8055) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdavaish1001/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@expressvtu4all) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avaishansari789@gmail.com) 
        
